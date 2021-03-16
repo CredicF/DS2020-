@@ -28,7 +28,9 @@ git pull origin master
 ```
 ### Tips:
 ⭐命令行工具：windows用户命令行工具建议使用cmder，mac用户命令行工具建议使用iTerm2
+
 ⭐Markdown文本阅览和编写工具：建议使用Typora
+
 ❓遇到问题怎么办？ qq群提问 or 课程网站提问 or 提Issue
 
 ## 参考
